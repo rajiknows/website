@@ -1,4 +1,4 @@
-import { Lamp, Twitter } from "lucide-react";
+import { Lamp } from "lucide-react";
 import Link from "next/link";
 
 export default function Navbar() {
